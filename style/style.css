@@ -22,12 +22,14 @@
 }
 
 body{
-    background-color: var(--background-color);
+    background: url(arkaplan.jpg);
+    /* background-color: var(--background-color); */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     flex-direction: column;
+    background-size: cover;
 }
 
 .screen{
