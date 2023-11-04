@@ -5,6 +5,7 @@ HTML5
 
 CSS
 
+JS
 <h2> Ekran Görünümü</h2>
 
 ![](img/screen.gif)
